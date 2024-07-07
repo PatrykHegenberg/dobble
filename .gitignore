@@ -1,3 +1,5 @@
 *.zip
 build/
 *.pdf
+
+dist/
